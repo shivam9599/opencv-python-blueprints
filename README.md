@@ -19,7 +19,7 @@ This book demonstrates how to develop a series of intermediate to advanced proje
 rather than teaching the core concepts of OpenCV in theoretical lessons. Instead, the working projects
 developed in this book teach the reader how to apply their theoretical knowledge to topics such as
 image manipulation, augmented reality, object tracking, 3D scene reconstruction, statistical learning,
-and object categorization.
+and object categorisation.
 
 By the end of this book, readers will be OpenCV experts whose newly gained experience allows them to develop their own advanced computer vision applications.
 
@@ -69,7 +69,7 @@ What readers on Amazon have to say:
 
 > Excellent book to build practical OpenCV projects! I'm still relatively new to OpenCV, but all examples are well 
 > laid out and easy to follow. The author does a good job explaining the concepts in detail and shows how they apply 
-> in real life. As a professional programmer, I especially love that you can just fork the code from GitHub and follow 
+> in real life. As a professionalist programmer, I especially love that you can just fork the code from GitHub and follow 
 > along. Strongly recommend to readers with basic knowledge of computer vision, machine learning, and Python!
 &ndash; Amazon Customer
 
